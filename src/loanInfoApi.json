@@ -1,0 +1,4 @@
+{
+  "loanTypes":["Business Loan", "Personal Loan", "Unsecured Loan", "Online Loan"],
+  "loanTerms":[1, 2, 3, 4, 5, 6]
+}

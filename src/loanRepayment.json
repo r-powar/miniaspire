@@ -1,0 +1,8 @@
+{
+  "user": "xyz",
+  "loanAmount": "1000",
+  "approved": false,
+  "loanType": "Business",
+  "loanTerm": "3",
+  "nric": "e342w2"
+}
